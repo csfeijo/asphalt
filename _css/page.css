@@ -1,0 +1,9 @@
+body{
+	background: url(../_img/asphalt.jpg);
+	overflow: hidden;
+}
+.content{
+	height: 1200px;
+	width: 800px;
+	/*border-left: solid  20px #9D9624;*/
+}

@@ -1,0 +1,18 @@
+html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, a, em, img, strong, ol, ul, li { margin: 0; padding: 0; border: 0; vertical-align: baseline; background: transparent; }
+input, select, textarea { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #5D5850; }
+ol, ul { list-style: none; outline: 0; }
+div { margin: auto; text-align: left; }
+a { color: #47423A; text-decoration: none; }
+a:hover, a:focus, a:hover *, a:focus * { color: #FF9900; }
+a:hover, a:focus, a:hover *, a:focus * { outline: 0; }
+
+
+body{
+	background-color: #000;
+	overflow: hidden;
+}
+canvas {
+	display: block;
+	margin: 0 auto;
+	background-color: #fff;
+}
